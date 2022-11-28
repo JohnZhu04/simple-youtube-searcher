@@ -21,7 +21,7 @@ function App() {
   };
 
   useEffect(() => {
-    onTermSubmit("react");
+    onTermSubmit("hello world");
   }, []);
 
   return (
